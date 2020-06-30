@@ -1,0 +1,10 @@
+Q 1 what is cloud computing?
+Ans - 
+Q 2 What is cloud?
+Ans -
+Q 3 Advantages of cloud.
+Ans -
+Q 4 Types of cloud.
+Ans -
+Q 5 Difference between cloud and server.
+Ans - 
