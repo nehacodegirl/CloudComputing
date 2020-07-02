@@ -31,6 +31,9 @@ Ans -There  are 3 main types of cloud computing as follows.
       3.Software as a Service (SaaS)
         SaaS provides you with a complete product that is run and managed by the service provider. In most cases, people referring to SaaS are referring to end-user applications         (such as web-based email). With a SaaS offering, you don’t have to think about how the service is maintained or how the underlying infrastructure is managed. You only           need to think about how you will use that particular software. 
 
+Q 5. What is EC2?
+Ans - Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud. It is designed to make web-scale cloud computing       easier for developers. Amazon EC2’s simple web service interface allows you to obtain and configure capacity with minimal friction.
+
 
 
 
