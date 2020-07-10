@@ -1,2 +1,0 @@
-# CloudComputing
-virtual computer
